@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StyledButton.qml</file>
+        <file>StyledDialog.qml</file>
+        <file>StyledTextField.qml</file>
+        <file>StyledListview.qml</file>
+        <file>StyledCombobox.qml</file>
+        <file>Image/green-check-mark-icon.svg</file>
+        <file>Image/incorrect-icon.svg</file>
+        <file>Image/loader-icon.svg</file>
+    </qresource>
+</RCC>
